@@ -1,3 +1,6 @@
+## AWS Beanstalk sample application steps
+
+
 1) Java installation 
     
     a) Install java 
